@@ -1,0 +1,1 @@
+console.log('tt-alpha-one plugin is loaded!');
